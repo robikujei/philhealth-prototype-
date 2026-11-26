@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;600;700&family=Source+Sans+3:wght@400;600&display=swap');
+.action-card .action-button{margin-top:auto!important}
 .logo img{display:block;width:126px;height:auto}.logo .prototype-label{padding-left:.65rem;border-left:1px solid #d7e2d8;color:#52605b;font:600 .7rem/1.2 'Source Sans 3',sans-serif}.topbar{border-bottom:3px solid #f4cf2b}@media(max-width:600px){.logo img{width:108px}.logo .prototype-label{display:none}}
 .breadcrumb{display:flex;gap:.55rem;align-items:center;margin:.25rem 0 1rem;padding:0 .35rem;color:#52605b;font-size:.9rem}.breadcrumb [aria-current="page"]{color:#163d30;font-weight:700}.breadcrumb a{color:#005d42}
 /* Compact, touch-friendly mobile navigation. */
