@@ -59,7 +59,6 @@ import socialTiktokMedia from './assets/media/social-tiktok.png';
 import homeGadMedia from './assets/media/home-gad.png';
 import homeNpcMedia from './assets/media/home-npc.png';
 
-import pantawidMedia from './assets/media/pantawid-4ps.png';
 import facilitiesMedia from './assets/media/philhealth-accredited-health-facilities-geotagging.png';
 import providerMedia from './assets/media/electronic-medical-record-service-provider.png';
 
