@@ -1,0 +1,14 @@
+:root{--ph-green:#007f3f;--ph-deep:#005b3f;--ph-yellow:#f4d000;--ph-pale:#eff8f1;--ph-ink:#17231d}
+body{color:var(--ph-ink);background:linear-gradient(135deg,#f6fbf7 0%,#fffdf1 55%,#eef8f1 100%)}
+a{color:var(--ph-deep)}
+a:focus-visible,button:focus-visible,summary:focus-visible{outline-color:var(--ph-deep)}
+header{background:rgba(255,255,255,.96);border-bottom-color:rgba(0,91,63,.18)}
+.topbar{background:var(--ph-deep);color:#fff;border-bottom:3px solid var(--ph-yellow)}.topbar span,.topbar a{color:#fff}
+.logo{color:var(--ph-deep)}.logo .site-tagline{color:#486158}.navwrap nav a{color:#28463a}.navwrap nav a:hover{color:var(--ph-deep);background:var(--ph-pale)}
+.profile{background:var(--ph-green);box-shadow:0 3px 8px rgba(0,91,63,.25)}
+.primary-button,.action-button{background:linear-gradient(135deg,var(--ph-green),var(--ph-deep));box-shadow:0 5px 13px rgba(0,127,63,.25)}
+.secondary-button{color:var(--ph-deep);border-color:#b8d8c4}.tag{background:#e2f3e5;color:var(--ph-deep)}.mini-tag{background:#eff8f1;color:var(--ph-deep);border-color:#bfe0c8}
+.hero-art{background:linear-gradient(180deg,transparent,rgba(0,91,63,.8)),linear-gradient(130deg,#d9efda,#7fbd88)}.support-strip{background:linear-gradient(135deg,var(--ph-deep),#003d2b)}.amber-button{background:linear-gradient(135deg,var(--ph-yellow),#e6bd00);color:#182000}
+.warning{background:linear-gradient(135deg,#fff9d9,#fff5c4);border-color:#e2c600}.menu-toggle summary{color:var(--ph-deep);border-color:#b8d8c4}.menu-toggle a:hover{background:var(--ph-pale)}.display-controls button{color:var(--ph-deep);border-color:#b8d8c4}.download-index h3{color:var(--ph-deep)}
+.hero-art{background-image:linear-gradient(180deg,rgba(0,91,63,.05),rgba(0,59,43,.84)),url('./assets/media/philhealth-31st-anniversary.png');background-position:center;background-size:cover}
+.home-hero+section .action-card{position:relative;overflow:hidden}.home-hero+section .action-card:after{content:"";position:absolute;right:-1rem;bottom:-1.5rem;width:8rem;height:6rem;border-radius:1rem 0 1.5rem 0;background-position:center;background-size:cover;opacity:.18;pointer-events:none}.home-hero+section .action-card:nth-child(1):after{background-image:url('./assets/media/inpatient-admissions-of-less-than-24-hours.png')}.home-hero+section .action-card:nth-child(2):after{background-image:url('./assets/media/maternity-care-package-for-hospital.png')}.home-hero+section .action-card:nth-child(3):after{background-image:url('./assets/media/philhealth-member-portal.png')}.home-hero+section .action-card>*{position:relative;z-index:1}
